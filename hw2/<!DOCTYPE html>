@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>example two</title>
+</head>
+<body>
+	<p align = "center">align center<br>center</p>
+	<p align = "left">align left<br>left</p>
+	<p align = "right">align right<br>right</p>
+	<hr>
+	<img src="./joongki.jpeg">
+	<img src="./joongki.jpeg"style = "width:100px; height:100px">
+	<img src="./joongki.jpeg"style = "width:25%; height:25%">
+	<img src="werwer" alt="invalid image">
+</body>
+</html>
